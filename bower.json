@@ -1,0 +1,18 @@
+{
+  "name": "threejsbasicjsfiles",
+  "authors": [
+    "Samuel Njunge <sirmesam-microsystems@gmail.com>"
+  ],
+  "description": "bubblesdata.js contains the following basic files that are used in all their animations in compressed format",
+  "main": "",
+  "license": "MIT",
+  "homepage": "sirmesam-microsystems.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

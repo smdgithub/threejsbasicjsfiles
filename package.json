@@ -1,0 +1,22 @@
+{
+  "name": "threejsbasicjsfiles",
+  "version": "1.0.0",
+  "description": "bubblesdata.js contains the following basic files that are used in all their animations in compressed format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smdgithub/threejsbasicjsfiles.git"
+  },
+  "keywords": [
+    "bubblesdata.js"
+  ],
+  "author": "sirmesam microsystems",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smdgithub/threejsbasicjsfiles/issues"
+  },
+  "homepage": "https://github.com/smdgithub/threejsbasicjsfiles#readme"
+}
